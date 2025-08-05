@@ -1,4 +1,3 @@
-// README.md
 # Vite React TypeScript Boilerplate
 
 ![CI](https://github.com/Skerve/aic-react-vite-tsx-boilerplate/actions/workflows/ci.yml/badge.svg)
